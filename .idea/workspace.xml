@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add NumberConversion">
-      <change afterPath="$PROJECT_DIR$/src/TypeDataBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TypeDataChar.java" afterDir="false" />
+    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add Type data char and boolean">
+      <change afterPath="$PROJECT_DIR$/src/TypeDataString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659659330336</updated>
-      <workItem from="1659659332850" duration="5204000" />
+      <workItem from="1659659332850" duration="5507000" />
     </task>
     <task id="LOCAL-00001" summary="first java pro commit">
       <created>1659661164375</created>
@@ -100,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659664138508</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add Type data char and boolean">
+      <created>1659664620758</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659664620758</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +131,7 @@
     <MESSAGE value="add literals numbers" />
     <MESSAGE value="Underscore" />
     <MESSAGE value="add NumberConversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NumberConversion" />
+    <MESSAGE value="add Type data char and boolean" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Type data char and boolean" />
   </component>
 </project>
