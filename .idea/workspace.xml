@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add MethodReturnValue">
-      <change beforePath="$PROJECT_DIR$/src/MethodReturnValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodReturnValue.java" afterDir="false" />
+    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add method to MethodReturnValue">
+      <change afterPath="$PROJECT_DIR$/src/MethodVariableArgument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659659330336</updated>
-      <workItem from="1659659332850" duration="18074000" />
+      <workItem from="1659659332850" duration="18963000" />
     </task>
     <task id="LOCAL-00001" summary="first java pro commit">
       <created>1659661164375</created>
@@ -266,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659687433375</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add method to MethodReturnValue">
+      <created>1659687785458</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1659687785458</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +292,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add NumberConversion" />
     <MESSAGE value="add Type data char and boolean" />
     <MESSAGE value="add Type data String" />
     <MESSAGE value="add File Variable" />
@@ -309,6 +316,7 @@
     <MESSAGE value="add Method" />
     <MESSAGE value="add MethodParameter" />
     <MESSAGE value="add MethodReturnValue" />
-    <option name="LAST_COMMIT_MESSAGE" value="add MethodReturnValue" />
+    <MESSAGE value="add method to MethodReturnValue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add method to MethodReturnValue" />
   </component>
 </project>
