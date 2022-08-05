@@ -28,5 +28,6 @@ public class TypeDataNumber {
         // Underscore, for reading purpose, so we can read it clearly
         long balance = 100_000_000_000L;
         int sum = 20_000_000;
+
     }
 }
