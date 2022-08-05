@@ -24,5 +24,9 @@ public class TypeDataNumber {
         int decimalInt = 25;
         int hexInt = 0xA132B;
         int binInt = 0b01010101;
+
+        // Underscore, for reading purpose, so we can read it clearly
+        long balance = 100_000_000_000L;
+        int sum = 20_000_000;
     }
 }
