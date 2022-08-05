@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add ForLoop">
-      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add DoWhileLoop">
+      <change afterPath="$PROJECT_DIR$/src/BreakContinue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659659330336</updated>
-      <workItem from="1659659332850" duration="15477000" />
+      <workItem from="1659659332850" duration="15805000" />
     </task>
     <task id="LOCAL-00001" summary="first java pro commit">
       <created>1659661164375</created>
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659684832971</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add DoWhileLoop">
+      <created>1659685247822</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1659685247822</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,7 +250,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first java pro commit" />
     <MESSAGE value="second java pro commit" />
     <MESSAGE value="third java pro commit add type data number" />
     <MESSAGE value="rename from tipe to type and add uiDesigner.xml" />
@@ -268,6 +274,7 @@
     <MESSAGE value="add SwitchStatement" />
     <MESSAGE value="add TernaryOperator" />
     <MESSAGE value="add ForLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ForLoop" />
+    <MESSAGE value="add DoWhileLoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DoWhileLoop" />
   </component>
 </project>
