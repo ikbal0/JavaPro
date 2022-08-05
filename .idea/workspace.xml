@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add MathematicsOperation">
-      <change afterPath="$PROJECT_DIR$/src/ComparisonOperation.java" afterDir="false" />
+    <list default="true" id="6b98f650-d81e-4403-b32f-78b147970457" name="Changes" comment="add ComparisonOperation">
+      <change afterPath="$PROJECT_DIR$/src/BooleanOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1659659330336</updated>
-      <workItem from="1659659332850" duration="10587000" />
+      <workItem from="1659659332850" duration="11719000" />
     </task>
     <task id="LOCAL-00001" summary="first java pro commit">
       <created>1659661164375</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659669671428</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add ComparisonOperation">
+      <created>1659670053911</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1659670053911</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +219,7 @@
     <MESSAGE value="add File PrimitiveDataTypeConversion" />
     <MESSAGE value="add Array" />
     <MESSAGE value="add MathematicsOperation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add MathematicsOperation" />
+    <MESSAGE value="add ComparisonOperation" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ComparisonOperation" />
   </component>
 </project>
