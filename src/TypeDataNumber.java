@@ -19,5 +19,10 @@ public class TypeDataNumber {
 
         // total capacity double type data is from 1.7e-308 to 1.7e+308, size 8 byte, default value 0.0
         double iniDouble = 12.2434;
+
+        // Literals Numbers
+        int decimalInt = 25;
+        int hexInt = 0xA132B;
+        int binInt = 0b01010101;
     }
 }
