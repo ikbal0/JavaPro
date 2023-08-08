@@ -1,3 +1,5 @@
+package array;
+
 public class Array {
     public static void main(String[] args) {
 
@@ -17,13 +19,13 @@ public class Array {
 
         System.out.println(stringArray[0]);
 
-        String[] stringArray2 = new String[3];
+        // String[] stringArray2 = new String[3];
 
         // Array Initializer
 
-        int[] arrayInt = new int[] {
-                10, 20, 30, 50, 40
-        };
+        // int[] arrayInt = new int[] {
+        //         10, 20, 30, 50, 40
+        // };
 
         long[] arrayLong = {
                 20, 10, 15, 60L, 30, 10
