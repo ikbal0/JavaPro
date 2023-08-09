@@ -9,5 +9,15 @@ public class LinkedHashMapExample {
         evenNumber.put("FOUR", 4);
 
         System.out.println(evenNumber);
+
+        LinkedHashMap<String, Integer> numbers = new LinkedHashMap<>(evenNumber);
+        numbers.put("SIX", 6);
+
+        System.out.println(numbers);
+
+        numbers.putIfAbsent("SIX", 6);
+        numbers.putIfAbsent("EIGHT", 8);
+
+        System.out.println(numbers);
     }
 }
